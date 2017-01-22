@@ -1,0 +1,83 @@
+.welcome, .troll {
+	height: 100vh;
+	display: block;
+	margin: auto;
+}
+
+.image-redbtn {
+	padding-top: 7.5vh;
+	padding-bottom: 0vh;
+	height: 60vh;
+}
+.center {
+    text-align: center;
+}
+
+.title-redbtn {
+	font-size: 5rem;
+	margin-bottom: 1.5vh;
+}
+
+html {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.emphasis {
+	color: red;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+.realityCheck {
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+	background-color: #eeeeee;
+}
+
+.modes {
+	height: 80vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.third {
+	width: 33vw;
+	height: 80vh;
+}
+
+.state {
+	padding-top: 30vh;
+}
+
+.useful {
+	background-color: #bbe3ff;
+}
+
+.useful-hover {
+	background-color: #5cbcff;
+}
+
+.normal {
+	background-color: #adadad;
+}
+
+.normal-hover {
+	background-color: #8c8c96;
+}
+
+.asshole {
+	background-color: #ff6666;
+}
+
+.asshole-hover {
+	background-color: #ea3434;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: unset;
+}
